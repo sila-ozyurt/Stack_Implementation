@@ -1,2 +1,2 @@
 # Stack_Implementation
- Stack implementation in C
+ stack implementation in C
